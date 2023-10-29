@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  margin-top: 24px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  
+  span {
+    flex: 1;
+    border-bottom: 1px dotted #818C99;
+    opacity: 0.2;
+  }
+}
